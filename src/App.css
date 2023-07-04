@@ -1,0 +1,15 @@
+.App {
+  display:flex;
+  border : 1px solid white;
+  width : 400px;
+  height : 600px;
+  flex-direction : column;
+  padding:1.2em;
+  border-radius : 10px;
+  background-color: #003a4a;
+  color :white;
+  align-items: center;
+  -webkit-box-shadow: 14px 5px 35px 7px rgba(0,0,0,0.33);
+-moz-box-shadow: 14px 5px 35px 7px rgba(0,0,0,0.33);
+box-shadow: 14px 5px 35px 7px rgba(0,0,0,0.33);
+}
